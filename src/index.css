@@ -1,0 +1,22 @@
+#container {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  /*background-color: rgb(95, 118, 110);*/
+}
+
+#editor {
+  width: 445px;
+  height: 496px;
+  border: 3px solid black;
+  border-right: 3px solid black;
+}
+
+#preview {
+  width: 445px;
+  height: 500px;
+  border: 3px solid black;
+}
